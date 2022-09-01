@@ -1,0 +1,67 @@
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\bin\Debug\Minerva.exe.config
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\bin\Debug\Minerva.exe
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\bin\Debug\Minerva.pdb
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.csprojAssemblyReference.cache
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.Properties.Resources.resources
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.csproj.GenerateResource.cache
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.exe
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.pdb
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\bin\Debug\EntityFramework.dll
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\bin\Debug\EntityFramework.SqlServer.dll
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\bin\Debug\System.Data.SQLite.dll
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\bin\Debug\System.Data.SQLite.EF6.dll
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\bin\Debug\System.Data.SQLite.Linq.dll
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\bin\Debug\EntityFramework.xml
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\bin\Debug\EntityFramework.SqlServer.xml
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\bin\Debug\System.Data.SQLite.xml
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\bin\Debug\System.Data.SQLite.dll.config
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.FormEntry.resources
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.Menu.resources
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.csproj.CopyComplete
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.AddClients.resources
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.AddCollum.resources
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.AddInstrument.resources
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.AddModel.resources
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.AddSupplier.resources
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.AddType.resources
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.ViewInstruments.resources
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.ViewAndDel.resources
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.ViewClients.resources
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.ViewModel.resources
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.ViewSupplier.resources
+D:\ДИПЛОМ\Курсовые\Курсовая ВМИИПРДияр\Project\Minerva\Minerva\Minerva\obj\Debug\Minerva.ViewType.resources
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\bin\Debug\Minerva.exe.config
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\bin\Debug\Minerva.exe
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\bin\Debug\Minerva.pdb
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\bin\Debug\EntityFramework.dll
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\bin\Debug\System.Data.SQLite.dll
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\bin\Debug\EntityFramework.xml
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\bin\Debug\System.Data.SQLite.xml
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.csprojAssemblyReference.cache
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.AddClients.resources
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.AddCollum.resources
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.AddInstrument.resources
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.AddModel.resources
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.AddOrder.resources
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.AddSupplier.resources
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.AddType.resources
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.FormEntry.resources
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.Orders.resources
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.ViewInstruments.resources
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.Menu.resources
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.Properties.Resources.resources
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.ViewAndDel.resources
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.ViewClients.resources
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.ViewModel.resources
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.ViewSupplier.resources
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.ViewType.resources
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.csproj.GenerateResource.cache
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.csproj.CopyComplete
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.exe
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.pdb
+C:\Users\Creator\Desktop\Minerva\Minerva\Minerva\obj\Debug\Minerva.ViewOrder.resources
